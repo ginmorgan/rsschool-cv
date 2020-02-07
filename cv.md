@@ -16,11 +16,11 @@
 ---
 ### Skills
 
-- Study BASIC, Pascal on the school curriculum. 
+- Study BASIC, Pascal at the school. 
 - Study Assembler, Pascal, Delphi at the University. 
 - Self-study of HTML, CSS, JavaScript, using GitHub (desktop version). 
 - Independent training in the direction of QA.
-- Adobe Photoshop
+- Adobe Photoshop user
 
 ---
 ### Experience and Code examples
